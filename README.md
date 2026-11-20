@@ -1,6 +1,6 @@
 # Air Quality Prediction in Bucharest
 
-Data mining course project, **Phase 1 (intermediary)**: dataset, intended analyses and selected algorithms.
+**Phase 1 (intermediary)**: dataset, intended analyses and selected algorithms.
 
 **Goal:** find out how well PM2.5 levels in Bucharest can be predicted using only weather and calendar information (no pollutant measurements as inputs), and which factors matter most.
 
